@@ -1,7 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Donato Manzione",
+	"license": "MIT",
+	"version": "1.0.0",
+"keywords": ["freecodecamp", "boilerplate", "npm", "practice"],
+	"description": "npm package.json file for the freeCodeCamp boilerplate",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"nodemon": "^3.0.3"
 	},
 	"main": "server.js",
 	"scripts": {
